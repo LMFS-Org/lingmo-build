@@ -1,6 +1,6 @@
 {
     "Name": "lingmo-wallpapers",
-    "Repository": "https://github.com/LingmoOS/lingmo-wallpapers.git",
+    "Repository": "https://github.com/chun-awa/lingmo-wallpapers.git",
     "BuildType": "Debian",
     "Tag": "2.0.0"
 }
